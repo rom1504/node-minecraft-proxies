@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-proxies",
+  "version": "0.0.0",
+  "description": "Create minecraft proxies in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rom1504/node-minecraft-proxies.git"
+  },
+  "keywords": [
+    "minecraft",
+    "proxy"
+  ],
+  "author": "Romain Beaumont <romain.rom1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rom1504/node-minecraft-proxies/issues"
+  },
+  "homepage": "https://github.com/rom1504/node-minecraft-proxies#readme",
+  "dependencies": {
+    "buffer-equal": "0.0.1",
+    "minecraft-protocol": "^0.16.0"
+  }
+}
